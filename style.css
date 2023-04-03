@@ -80,11 +80,7 @@ form {
     #f1da36 0%,
     #fca86c 99%
   ); /* FF3.6-15 */
-  background: -webkit-linear-gradient(
-    left,
-    #f1da36 0%,
-    #fca86c 99%
-  ); /* Chrome10-25,Safari5.1-6 */
+  background: -webkit-linear-gradient(left, #f1da36 0%, #fca86c 99%);
   background: linear-gradient(
     to right,
     #f1da36 0%,
